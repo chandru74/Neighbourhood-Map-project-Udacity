@@ -1,0 +1,44 @@
+html,
+body {
+ font-family: Arial, sans-serif;
+ height: 100%;
+ margin: 0;
+ padding: 0;
+}
+
+header {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+input {
+ font-size: 16px;
+}
+
+#map {
+  height: 80%;
+  width: 100%;
+}
+
+#searchInputBox {
+  padding: 8px 10px;
+  outline: medium;
+  margin-bottom: 1%;
+  background: #fff;
+  border: 1px solid #999;
+  border-radius: 4px;
+  line-height: 3px;
+  text-align: left;
+}
+
+.description {
+  font-size: 12px;
+  outline: medium;
+  border: 1px solid #999;
+  margin-top: 5px;
+  width: 90%;
+}
+  
+
+
